@@ -1,0 +1,10 @@
+keras
+keras-nlp
+huggingface_hub
+pandas
+numpy
+scikit-learn
+fastapi==0.111.0
+uvicorn==0.29.0
+ngrok==1.4.0
+nest_asyncio
